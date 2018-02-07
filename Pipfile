@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+flask = "*"
+packaging = "*"
+"oauth2client" = "*"
+redis = "*"
+passlib = "*"
+flask-httpauth = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
+"psycopg2" = "*"
+bleach = "*"
+requests = "*"
+
+
+[dev-packages]
+
