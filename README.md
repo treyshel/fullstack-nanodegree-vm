@@ -7,7 +7,7 @@ dependencies are managed through `pipenv`.
 ## First time setup
 
 ```bash
-$ git clone git@github.com:BaseCampCoding/fullstack-nanodegree-vm.git udacity-databases
+$ git clone https://github.com/BaseCampCoding/fullstack-nanodegree-vm.git udacity-databases
 $ cd udacity-databases
 $ bash setup_postgres_and_redis.sh
 $ pipenv install
